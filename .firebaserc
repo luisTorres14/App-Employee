@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empleados-ce6b7": {
+      "hosting": {
+        "AppEmpleados": [
+          "empleados-ce6b7"
+        ]
+      }
+    }
+  }
+}

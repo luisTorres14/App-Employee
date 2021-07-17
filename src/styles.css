@@ -1,5 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 
+@import '~ngx-toastr/toastr';
 body {
     /* como queremos que se vea mas opaco, se usa de la siguiente manera */
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('./assets/forest.jpg');
